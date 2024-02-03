@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio gama", "ejercicio gama\ejercicio gama.csproj", "{9E4FED17-DB6F-4742-B3C1-9520D704987B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4FED17-DB6F-4742-B3C1-9520D704987B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4FED17-DB6F-4742-B3C1-9520D704987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4FED17-DB6F-4742-B3C1-9520D704987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4FED17-DB6F-4742-B3C1-9520D704987B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1552C72-CB9F-4B59-B5A5-E9372702BEBB}
+	EndGlobalSection
+EndGlobal
